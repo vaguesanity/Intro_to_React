@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "esModuleInterop": true,
+    "lib": [
+      "dom",
+      "esnext"
+    ],
+    "jsx": "react-jsx",
+    "strict": true,
+    "noUncheckedIndexedAccess": true
+  },
+  "include": [
+    "./src/**/*"
+  ]
+}
